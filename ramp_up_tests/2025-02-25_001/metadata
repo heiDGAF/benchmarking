@@ -1,0 +1,15 @@
+--- PARAMETERS ---
+msg_per_sec_in_intervals=[10, 50, 100, 150]
+interval_length_in_sec=[120, 120, 120, 120]
+
+
+--- START TIME DATA INPUT ---
+2025-02-25 13:27:10.909946
+
+
+--- END TIME DATA INPUT ---
+2025-02-25 13:35:10.951454
+
+
+--- MESSAGES SENT TOTAL ---
+34935 messages
