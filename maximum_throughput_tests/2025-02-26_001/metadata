@@ -1,0 +1,20 @@
+--- PARAMETERS ---
+length_in_min=2
+msg_per_sec=500
+
+
+--- START TIME DATA INPUT ---
+2025-02-26 15:50:01.252685
+
+
+--- END TIME DATA INPUT ---
+2025-02-26 15:52:01.254552
+
+
+--- MESSAGES SENT TOTAL ---
+40684 messages
+
+
+--- IMPORTANT ---
+The entering and processed numbers recorded for this test are probably not correct. The method of acquiring them has
+been changed in subsequent tests.
